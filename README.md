@@ -22,4 +22,4 @@ Network Security, Vulnerability Assessment, Exploit Development, Python, Bash, P
 - Certified Ethical Hacker (CEH) (_February 2024 - February 2027_)
 - Cisco Certified Network Associate (CCNA) (_November 2023 - November 2027_)
 - Cisco Certified CyberOps Associate (CCCA) (_October 2023 - February 2027_)
-- HTB Pro Labs: Dante (_June 2025_)
+- HTB Pro Labs: Zephyr (_June 2025_)
