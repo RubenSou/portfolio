@@ -13,6 +13,8 @@ Network Security, Vulnerability Assessment, Exploit Development, Python, Bash, P
 - Created detailed incident reports to guide the remediation of identified vulnerabilities within defined scopes, collaborating with clients to determine optimal mitigation strategies.
 
 ## Certifications & Courses
+- HTB Pro Labs: Cybernetics (_June 2025_)
+- HTB Pro Labs: Zephyr (_June 2025_)
 - Offensive Security Certified Professional (OSCP/OSCP+) (_December 2024 - December 2027_)
 - Penetration Tester Path from Hack The Box (HTB) (_July 2024_)
 - Practical Ethical Hacking from TCM Security (_May 2024_)
@@ -22,4 +24,3 @@ Network Security, Vulnerability Assessment, Exploit Development, Python, Bash, P
 - Certified Ethical Hacker (CEH) (_February 2024 - February 2027_)
 - Cisco Certified Network Associate (CCNA) (_November 2023 - November 2027_)
 - Cisco Certified CyberOps Associate (CCCA) (_October 2023 - February 2027_)
-- HTB Pro Labs: Zephyr (_June 2025_)
