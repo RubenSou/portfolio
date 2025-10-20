@@ -19,7 +19,7 @@ Network Security, Vulnerability Assessment, Exploit Development, Python, Bash, P
 
 ## Bug Bounty & Independent Research
 **Bug Bounty Hunter (_Aug 2025 - Present_)**
-- Discovered P4 vulnerability (Broken Access Control) on NASA's Vulnerability Disclosure Program: Exposed unauthenticated API endpoints with admin username disclosure and self-signup misconfiguration.
+- Discovered P4 vulnerability (Broken Access Control) on NASA's Vulnerability Disclosure Program: Exposed unauthenticated API endpoints.
 - Active researcher on HackerOne and Bugcrowd platforms, specializing in API security, authentication bypass, access control issues, and web application testing.
 - Applied practical skills from PortSwigger Web Security Academy to identify OWASP Top 10 vulnerabilities in real-world targets.
 
