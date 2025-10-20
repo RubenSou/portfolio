@@ -40,7 +40,7 @@ Network Security, Vulnerability Assessment, Exploit Development, Python, Bash, P
 - Penetration Tester Path from Hack The Box (HTB) (_July 2024_)
 - Practical Ethical Hacking from TCM Security (_May 2024_)
 - HTB Pro Labs: Dante (_June 2024_), Zephyr (_June 2025_), Cybernetics (_June 2025_)
-- PortSwigger Web Security Academy Completion | Oct 2025 (All labs; Ranked #50 in Hall of Fame)
+- PortSwigger Web Security Academy Completion (_Oct 2025_) All labs; Ranked #50 in Hall of Fame
 - eLearnSecurity Junior Penetration Tester (eJPT) (_April 2024_)
 - Cisco Certified Specialist - Network Security: Firepower (CCSNS-Firepower) (_February 2024 - February 2027_)
 - Certified Ethical Hacker (CEH v12) (_February 2024 - February 2027_)
